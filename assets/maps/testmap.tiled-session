@@ -1,0 +1,193 @@
+{
+    "activeFile": "Saint-Rémy.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "D:/Documents/prog/pkmnV4/assets/map/Saint-Rémy.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 823.5,
+                "y": 686
+            }
+        },
+        "D:/Documents/prog/pkmnV4/assets/map/house_0.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 97.25,
+                "y": 111.75
+            }
+        },
+        "D:/Documents/prog/pkmnV4/assets/map/tileset/interieur1.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pkmnV4/assets/map/tileset/tileset4g.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pkmnV4/assets/map/tileset/tileset_pkmn.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/cave.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 156,
+                "y": 180.66666666666663
+            }
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/cave.tmx#cavebackground": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/cave.tmx#cavetiles": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/cave.tmx#cavewater": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/cave.tmx#maptypetileset": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/cave.tmx#rockthing": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/cave.tmx#spotthing": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/cave.tmx#watertiles": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis.tmx": {
+            "scale": 2,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 275,
+                "y": 147
+            }
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis.tmx#Buildings and other stuff": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis.tmx#Collisions and Stuff": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis.tmx#Grass": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis.tmx#Underwatertiles": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis.tmx#WaterBorders": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis.tmx#animatedwatertile": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis.tmx#grasssandtiles": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis_inside.tmx": {
+            "scale": 2.671875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 160.18713450292398,
+                "y": 160.18713450292395
+            }
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis_inside.tmx#maptypetileset": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis_inside.tmx#terrain": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis_intro.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 75.75,
+                "y": 81.75
+            }
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis_intro.tmx#hgss_tileset_terrain_and_paths_by_thunderdove-d3bnn5w": {
+            "scaleInDock": 1
+        },
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis_intro.tmx#maptypetileset": {
+            "scaleInDock": 1
+        },
+        "Saint-Rémy.tmx": {
+            "expandedGroupLayers": [
+                11,
+                43
+            ],
+            "expandedObjectLayers": [
+                49,
+                43,
+                51,
+                50
+            ],
+            "scale": 4,
+            "selectedLayer": 32,
+            "viewCenter": {
+                "x": 788.5,
+                "y": 700.5
+            }
+        },
+        "house_a.tmx": {
+            "expandedGroupLayers": [
+                16
+            ],
+            "expandedObjectLayers": [
+                16,
+                18,
+                17,
+                19
+            ],
+            "scale": 4,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 104,
+                "y": 96
+            }
+        },
+        "maptest.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 240,
+                "y": 160
+            }
+        },
+        "tileset/interieur1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/tileset4g.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset_pkmn.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "Saint-Rémy.tmx",
+        "house_a.tmx",
+        "maptest.tmx"
+    ],
+    "project": "testmap.tiled-project",
+    "recentFiles": [
+        "maptest.tmx",
+        "house_a.tmx",
+        "Saint-Rémy.tmx",
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis_intro.tmx",
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis.tmx",
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/oasis_inside.tmx",
+        "D:/Documents/prog/pokeclone-master/pokeclone-master/data/maps/cave.tmx",
+        "D:/Documents/prog/pkmnV4/assets/map/house_0.tmx",
+        "D:/Documents/prog/pkmnV4/assets/map/Saint-Rémy.tmx",
+        "tileset/interieur1.tsx"
+    ]
+}
